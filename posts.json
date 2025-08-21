@@ -1,0 +1,52 @@
+[
+  {
+    "title": "The Future of AI",
+    "content": "Artificial Intelligence continues to evolve, shaping industries from healthcare to finance.",
+    "user_id": 1
+  },
+  {
+    "title": "Healthy Living Tips",
+    "content": "A balanced diet and regular exercise are key to maintaining a healthy lifestyle.",
+    "user_id": 2
+  },
+  {
+    "title": "Traveling on a Budget",
+    "content": "Discover how to explore the world without breaking the bank.",
+    "user_id": 3
+  },
+  {
+    "title": "Remote Work Productivity",
+    "content": "Tips and tools to stay productive while working from home.",
+    "user_id": 4
+  },
+  {
+    "title": "The Rise of Electric Cars",
+    "content": "Electric vehicles are becoming mainstream as technology advances.",
+    "user_id": 5
+  },
+  {
+    "title": "Investing for Beginners",
+    "content": "Learn the basics of stock market investing and wealth building.",
+    "user_id": 6
+  },
+  {
+    "title": "Mindfulness Practices",
+    "content": "Mindfulness can reduce stress and improve focus in everyday life.",
+    "user_id": 7
+  },
+  {
+    "title": "The Power of Reading",
+    "content": "Reading regularly enhances knowledge, empathy, and creativity.",
+    "user_id": 8
+  },
+  {
+    "title": "Cooking at Home",
+    "content": "Homemade meals are healthier and often more affordable than eating out.",
+    "user_id": 9
+  },
+  {
+    "title": "Sustainable Living",
+    "content": "Simple changes in daily habits can help protect the environment.",
+    "user_id": 10
+  }
+]
